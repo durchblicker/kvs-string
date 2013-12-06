@@ -5,6 +5,7 @@
 'use strict';
 
 module.exports = KVSString;
+module.exports.kvt = 'utility';
 
 var Abstract = require('kvs-abstract');
 

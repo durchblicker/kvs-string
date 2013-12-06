@@ -1,6 +1,6 @@
 {
   "name": "kvs-string",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "wraps a KVS to convert stuff to/from Strings",
   "main": "string.js",
   "scripts": {
